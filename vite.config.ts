@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    base: '/Fly-Pari/',
+    base: https://mourexsantos.github.io/Fly-Pari/,
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
