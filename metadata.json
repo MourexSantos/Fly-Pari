@@ -1,0 +1,6 @@
+{
+  "name": "Aves de Guarapari",
+  "description": "Plataforma interativa para observação de aves em Guarapari, ES. Permite identificar aves por foto usando IA, registrar avistamentos, consultar guias locais, acompanhar rotas e interagir no fórum.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
